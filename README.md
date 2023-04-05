@@ -4,7 +4,7 @@ My name's Eugene! I'm currently a sophomore at Yale studying Statistics. I've ta
 
 Right now, I've been mainly working on a project to scrape data on fighters and past fights in the UFC (historical stats + betting odds) in an effort to build several predictive models and develop a betting strategy.
 
-I'll be joining [Castleton Commodities International](https://www.cci.com/), a prop trading firm in the energy commodities market, as a Data Science / Machine Learning intern this summer. Previously, I interned at a startup and a large insurance firm doing analytics work.
+I'll be joining [Castleton Commodities International](https://www.cci.com/), a prop trading firm in the energy commodities market, as a Data Science/ML intern this summer. Previously, I interned at a startup and a large insurance firm doing analytics work.
 
 Outside of academics and career interests, I'm a big fan of Legos, MMA, and listening to music - like the song below!
 
