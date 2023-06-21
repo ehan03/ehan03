@@ -2,7 +2,7 @@
 
 My name's Eugene! I'm currently a sophomore at Yale studying Statistics. I've taken a broad range of theoretical coursework in stats, math, and CS, and I'm especially interested in the theory and application of data science and machine learning.
 
-Right now, I've been mainly working on a project to scrape data on fighters and past fights in the UFC (historical stats + betting odds) in an effort to build several predictive models and develop a betting strategy.
+Right now, I've been mainly working on a project to scrape data on fighters and past fights in the UFC in an effort to build well-calibrated models and develop a betting strategy.
 
 I'll be joining [Castleton Commodities International](https://www.cci.com/), a prop trading firm in the energy commodities market, as a Data Science/ML intern this summer. Previously, I interned at a startup and a large insurance firm doing analytics work.
 
